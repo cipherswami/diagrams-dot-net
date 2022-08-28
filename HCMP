@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T21:12:36.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="yVEOtrKHlhCFUZzzeAld" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-28T21:16:52.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="xTZMpTkq2VPXDTyP2QEe" version="20.2.2" type="github">
   <diagram id="AIFUhT_p2OjaygmlBBDR" name="Page-1">
     <mxGraphModel dx="3407" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -302,8 +302,8 @@
         <mxCell id="GNjknvj5vK25BsVJJxnX-94" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/heroicons-solid/20/dots-horizontal-128.png;fontSize=20;strokeWidth=5;fontColor=#000000;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="GNjknvj5vK25BsVJJxnX-2">
           <mxGeometry x="563.8587136929461" y="566.061212121212" width="32.01" height="32.01" as="geometry" />
         </mxCell>
-        <mxCell id="GNjknvj5vK25BsVJJxnX-95" value="GCMP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=34;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-56.88" y="840" width="120" height="50" as="geometry" />
+        <mxCell id="GNjknvj5vK25BsVJJxnX-95" value="Hybrid Counter Mode Protocol" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=34;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-256.88" y="840" width="520" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GNjknvj5vK25BsVJJxnX-96" value="CIPH3R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="620" y="860" width="50" height="20" as="geometry" />
